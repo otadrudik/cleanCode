@@ -1,0 +1,27 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uu_appg01_server": "^5.0.0",
+    "decimal.js": "3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "jest": "^27.4.7",
+    "prettier": "^2.5.1"
+  },
+  "prettier": {
+    "printWidth": 170
+  }
+}
